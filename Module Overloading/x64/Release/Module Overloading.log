@@ -1,0 +1,8 @@
+﻿D:\vsstudio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+D:\vsstudio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(Module Overloading.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 490 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Module Overloading.vcxproj -> C:\Users\cys\Desktop\Todo\ProcessInject\Module Overloading\output\Module-Overloading.exe
